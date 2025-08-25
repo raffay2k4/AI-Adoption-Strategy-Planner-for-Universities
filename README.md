@@ -10,16 +10,16 @@ By taking a university’s objective (e.g., *“mental health of students”*) a
 
 ---
 
-## 🔹 Key Features
+## Key Features
 - **Autonomous Web Search & Research** → Finds credible, recent sources and extracts relevant information.  
 - **Summarization & Insight Extraction** → Converts raw content into factual bullet points and key takeaways.  
 - **Statistical Extraction** → Identifies numeric values (percentages, counts, costs) with contextual meaning.  
 - **Citation Management** → Tracks and logs citations for transparency.  
-- **PDF Strategy Report Generation** → Produces a professional pilot plan document for university decision-making.  
+- **PDF Strategy Report Generation** → Produces a pilot plan document for university decision-making.  
 
 ---
 
-## 🛠️ Technologies & Frameworks Used  
+## Technologies & Frameworks Used  
 
 ### **LangChain Experimental (Plan-and-Execute Framework)**  
 - Implemented the **Planner-Executor design pattern**  
@@ -47,9 +47,4 @@ By taking a university’s objective (e.g., *“mental health of students”*) a
 - Built an interactive **Gradio UI**:  
   - Input objective + timeframe  
   - Run the agent & view detailed reasoning logs  
-  - Download the generated **PDF Pilot Plan**  
-
----
-
-## 🚀 Impact  
-This project demonstrates the **practical use of Agentic AI for strategic decision-making**, combining autonomous research, data extraction, and report generation into a single seamless workflow.  
+  - Download the generated **PDF Pilot Plan**   
