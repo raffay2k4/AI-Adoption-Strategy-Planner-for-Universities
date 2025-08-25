@@ -47,4 +47,6 @@ By taking a university’s objective (e.g., *“mental health of students”*) a
 - Built an interactive **Gradio UI**:  
   - Input objective + timeframe  
   - Run the agent & view detailed reasoning logs  
-  - Download the generated **PDF Pilot Plan**   
+  - Download the generated **PDF Pilot Plan**
+
+![image alt](https://github.com/raffay2k4/AI-Adoption-Strategy-Planner-for-Universities/blob/79311f71c812bd68f8e79f18f82bd366683c2bea/Interface.jpg)
